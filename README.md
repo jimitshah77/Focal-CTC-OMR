@@ -1,8 +1,8 @@
 # Focal-CTC-OMR  
-![python](/images/wordCloud.png)  
+![python](/images/wordCloud1.png)  
 ![python](/images/frequencyVsNotes.png)  
-![python](/images/bin.png)  
 ![python](/images/boxPlot.png)  
+![python](/images/barGraph.png)  
 ![python](/images/waffleChart.png)  
 
 
