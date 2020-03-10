@@ -13,7 +13,7 @@ Script: visualization_of_sampled_dataset_1250.ipynb
 
 ## Spliting Sampled_1250 Dataset in Training and Testing Dataset  
 Script: train_test_split.ipynb  
-![python](/images/training_testing.png)  
+![python](/images/testing_training.png)  
 
 
 ## Scripts
