@@ -20,3 +20,6 @@ Script: train_test_split.ipynb
 1. sampling_1250.ipynb :Used for Sampling the Dataset
 2. visualization_of_sampled_dataset_1250.ipynb :
 3. train_test_split.ipynb
+
+## 
+Base Code is taken from https://github.com/OMR-Research/tf-end-to-end
