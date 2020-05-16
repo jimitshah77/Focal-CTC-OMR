@@ -17,6 +17,9 @@ def focal_ctc(alpha=0.5,gamma=2.0,targets,logits,seq_len):
       
 return loss    
 ```
+## Problem Statement  
+## Data Visualization  
+## Expriments and Results  
 
 ## Sampling the Dataset  
 Script: sampling_1250.ipynb  
