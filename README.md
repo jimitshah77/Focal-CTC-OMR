@@ -1,6 +1,6 @@
 # Focal-CTC-OMR  
 
-##Focal CTC Loss Function
+## Focal CTC Loss Function
 ```python
 def focal_ctc(alpha=0.5,gamma=2.0,targets,logits,seq_len):
       
