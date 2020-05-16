@@ -1,5 +1,23 @@
 # Focal-CTC-OMR  
 
+##Focal CTC Loss Function
+```python
+def focal_ctc(alpha=0.5,gamma=2.0,targets,logits,seq_len):
+      
+    #FOCAL LOSS
+    #This function computes Focal Loss
+    #Inputs: alpha, gamma, targets, logits, seq_len
+    #Default values of alpha=0.5 and gamma=2.0
+    #Output: loss
+       
+    ctc_loss = tf.nn.ctc_loss(labels=targets, inputs=logits, sequence_length=seq_len, time_major=True)
+    p=tf.exp(-ctc_loss)
+    focal_ctc_loss=((alpha)*((1-p)**gamma)*(ctc_loss))
+    loss = tf.reduce_mean(focal_ctc_loss)
+      
+return loss    
+```
+
 ## Sampling the Dataset  
 Script: sampling_1250.ipynb  
 
