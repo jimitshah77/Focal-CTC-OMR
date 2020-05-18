@@ -33,21 +33,16 @@ return loss
 ![python](/images/TrainingLoss.png)  
 ![python](/images/ComparingSymbolErrorRate.png)  
 
-## References
-1) End-to-End Neural Optical Music Recognition of Monophonic Scores (https://doi.org/10.3390/app8040606)  
-2) Focal CTC Loss for Chinese Optical Character Recognition on Unbalanced Datasets (https://doi.org/10.1155/2019/9345861)  
-3) Base Code (https://github.com/OMR-Research/tf-end-to-end)  
+
   
   
 ## Sampling the Dataset  
 (Scripts contain sampling and visualization codes)  
 ![python](/images/SampledDatasetDistributionImbalance.png)  
-![python](/images/wordcloud2.png)  
- 
-### Scripts
-1. sampling_1250.ipynb :Used for Sampling the Dataset
-2. visualization_of_sampled_dataset_1250.ipynb :
-3. train_test_split.ipynb
+### Word Cloud
+![python](/images/wordcloud2.png) 
 
-## 
-Base Code (https://github.com/OMR-Research/tf-end-to-end)
+## References
+1) End-to-End Neural Optical Music Recognition of Monophonic Scores (https://doi.org/10.3390/app8040606)  
+2) Focal CTC Loss for Chinese Optical Character Recognition on Unbalanced Datasets (https://doi.org/10.1155/2019/9345861)  
+3) Base Code (https://github.com/OMR-Research/tf-end-to-end)  
