@@ -23,6 +23,10 @@ Given a music sheet, usually in the form of an image, the goal of an OMR system 
 
 ### Solution: Focal CTC 
 ## Data Visualization  
+![python](/images/boxPlot.png)  
+![python](/images/barGraph.png)  
+![python](/images/waffleChart.png)  
+
 ## Expriments and Results  
 
 ## Sampling the Dataset  
