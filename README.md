@@ -40,8 +40,8 @@ return loss
   
   
 ## Sampling the Dataset  
-(Scripts contain sampling and visualization codes)
-![python](/images/SampledDatasetDistributionImbalance.png.png)  
+(Scripts contain sampling and visualization codes)  
+![python](/images/SampledDatasetDistributionImbalance.png)  
 ![python](/images/wordcloud2.png)  
  
 ### Scripts
