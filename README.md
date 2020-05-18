@@ -36,7 +36,7 @@ return loss
 ## References
 1) End-to-End Neural Optical Music Recognition of Monophonic Scores (https://doi.org/10.3390/app8040606)  
 2) Focal CTC Loss for Chinese Optical Character Recognition on Unbalanced Datasets (https://doi.org/10.1155/2019/9345861)  
-3) Base Code is taken from https://github.com/OMR-Research/tf-end-to-end
+3) Base Code (https://github.com/OMR-Research/tf-end-to-end)  
 
 ## Sampling the Dataset  
 Script: sampling_1250.ipynb  
@@ -60,4 +60,4 @@ Script: train_test_split.ipynb
 3. train_test_split.ipynb
 
 ## 
-Base Code is taken from https://github.com/OMR-Research/tf-end-to-end
+Base Code (https://github.com/OMR-Research/tf-end-to-end)
