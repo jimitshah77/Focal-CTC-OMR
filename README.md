@@ -38,23 +38,12 @@ return loss
 2) Focal CTC Loss for Chinese Optical Character Recognition on Unbalanced Datasets (https://doi.org/10.1155/2019/9345861)  
 3) Base Code (https://github.com/OMR-Research/tf-end-to-end)  
 
-## Sampling the Dataset  
-Script: sampling_1250.ipynb  
-
-## Visualizing Sampled Dataset  
-Script: visualization_of_sampled_dataset_1250.ipynb  
+### Sampling the Dataset  
+(Scripts contain sampling and visualization codes)
 ![python](/images/wordcloud2.png)  
-![python](/images/frequencyVsNotes.png)  
-![python](/images/boxPlot.png)  
-![python](/images/barGraph.png)  
-![python](/images/waffleChart.png)  
-
-## Spliting Sampled_1250 Dataset in Training and Testing Dataset  
-Script: train_test_split.ipynb  
-![python](/images/testing_training.png)  
-
-
-## Scripts
+![python](/images/SampledDataDistribution.png)  
+ 
+### Scripts
 1. sampling_1250.ipynb :Used for Sampling the Dataset
 2. visualization_of_sampled_dataset_1250.ipynb :
 3. train_test_split.ipynb
