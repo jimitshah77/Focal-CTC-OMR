@@ -39,7 +39,7 @@ return loss
 ## Sampling the Dataset  
 (Scripts contain sampling and visualization codes)  
 ![python](/images/SampledDatasetDistributionImbalance.png)  
-### Word Cloud
+##### Word Cloud
 ![python](/images/wordcloud2.png) 
 
 ## References
