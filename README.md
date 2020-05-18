@@ -30,6 +30,8 @@ def focal_ctc(alpha=0.5,gamma=2.0,targets,logits,seq_len):
 return loss    
 ```
 ## Expriments and Results  
+![python](/images/TrainingLoss.png)  
+![python](/images/ComparingSymbolErrorRate.png)  
 
 ## Sampling the Dataset  
 Script: sampling_1250.ipynb  
