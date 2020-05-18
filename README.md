@@ -19,7 +19,7 @@ return loss
 ```
 ## Problem Statement  
 Given a music sheet, usually in the form of an image, the goal of an OMR system is to use various vision algorithms to interpret the corresponding music symbols and later convert it into digital playable format of music. To solve this problem in an End-to-End manner, Convolutional Recurrent Neural Network (CRNN) architecture is used. It considers both spatial and sequential nature of this problem. CTC loss function is proved to be a favorable choice in these types of sequence problems as it trains the models directly from input images to their corresponding musical transcripts without the need for a frame-by-frame alignment between the image and the ground-truth thereby solving the purpose of End to-End training. Though traditional CTC seems to solve a major chunk of the problem, it suffers from some limitations due to Unbalanced Dataset. 
-![python](/images/image5.jpg)  
+![python](/images/image6.PNG)  
 
 ### Solution: Focal CTC 
 ## Data Visualization  
