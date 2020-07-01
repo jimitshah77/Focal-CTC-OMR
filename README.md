@@ -1,5 +1,7 @@
 # Focal-CTC-OMR  
 
+## Research Paper Publication:
+Sang CTC- Improving Traditional CTC Loss Function for Optical Music Recognition (https://doi.org/10.1109/PuneCon46936.2019.9105720)
 
 ## Problem Statement  
 Given a music sheet, usually in the form of an image, the goal of an OMR system is to use various vision algorithms to interpret the corresponding music symbols and later convert it into digital playable format of music. To solve this problem in an End-to-End manner, Convolutional Recurrent Neural Network (CRNN) architecture is used. It considers both spatial and sequential nature of this problem. CTC loss function is proved to be a favorable choice in these types of sequence problems as it trains the models directly from input images to their corresponding musical transcripts without the need for a frame-by-frame alignment between the image and the ground-truth thereby solving the purpose of End to-End training. Though traditional CTC seems to solve a major chunk of the problem, it suffers from some limitations due to Unbalanced Dataset. 
