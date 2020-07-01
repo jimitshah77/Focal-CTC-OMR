@@ -33,7 +33,7 @@ def focal_ctc(alpha=0.5,gamma=2.0,targets,logits,seq_len):
       
 return loss    
 ```
-Edit: If you are facing Exploding Gradients Problem ('nan' in loss) use clipping on ```ctc_loss```
+Edit: If you are facing Exploding Gradients Problem ('nan' in loss) try clipping on ```ctc_loss```
 ## Experiments and Results  
 ![python](/images/TrainingLoss.png)  
 ![python](/images/ComparingSymbolErrorRate.png)  
