@@ -1,13 +1,13 @@
 ## Research Paper Publication:
 SangCTC- Improving Traditional CTC Loss Function for Optical Music Recognition (https://doi.org/10.1109/PuneCon46936.2019.9105720)
 
-### Citation:  
+### Citation (2 citiations):  
 J. K. Shah, A. S. Padte and P. N. Ahirao,  
 "SangCTC-Improving Traditional CTC Loss Function for Optical Music Recognition (August 2019),"  
 2019 IEEE Pune Section International Conference (PuneCon), Pune, India, 2019, pp. 1-5,  
 doi: 10.1109/PuneCon46936.2019.9105720.
   
-# Focal-CTC-OMR  
+# Focal-CTC-OMR (22 Stars ⭐)  
 (Implementation of Part I of SangCTC)  
 
 ## Problem Statement  
